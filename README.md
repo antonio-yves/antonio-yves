@@ -4,6 +4,7 @@
 
 - 🌎 João Pessoa - PB
 - 👨‍🎓 Ciência da Computação - MIT/UFPB
+- 👨‍💻 Estagiário: Desenvolvedor de Sistemas em [<a href="http://hlaureano.org.br" target="_blank">Hospital Napoleão Laureano</a>]
 - 🌱 Atualmente aprendendo desenvolvimento mobile 📱
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Copiei dele -> [Erlon Júnior](https://github.com/ejrgeek)
