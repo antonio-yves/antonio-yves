@@ -30,7 +30,7 @@
 [<img align="left" alt="reactjs" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">][reactjs]
 [<img align="left" alt="nestjs" width="60px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">][nestjs]
 [<img align="left" alt="nodejs" width="60px" src="https://img.icons8.com/color/452/nodejs.png">][nodejs]
-[<img align="left" alt="java" width="60px" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png">][java]
+[<img align="left" alt="electron" width="60px" src="https://devkico.itexto.com.br/wp-content/uploads/2020/02/electron_logo.png">][electron]
 <br/><br/><br/><br/>
 
 ---
@@ -57,4 +57,4 @@
 [reactjs]: https://pt-br.reactjs.org/
 [nestjs]: https://nestjs.com/
 [nodejs]: https://nodejs.org/en/
-[java]: https://www.java.com/pt-BR/
+[electron]: https://www.electronjs.org/
