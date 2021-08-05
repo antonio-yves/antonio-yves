@@ -11,8 +11,10 @@
 
 ---
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-yves&show_icons=true&theme=dark" alt="Antonio Yves" />
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-yves&show_icons=true&theme=gotham&border_radius=10" height="180em"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-yves&layout=compact&theme=gotham&border_radius=10" height="180em"/>
+</div>
 
 ---
 
