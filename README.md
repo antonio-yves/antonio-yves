@@ -19,7 +19,7 @@
 ---
 
 ### Linguagens, Frameworks, Ferramentas e Tecnologias:
-[<img align="left" alt="python" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">][python]
+[<img align="left" alt="python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">][python]
 [<img align="left" alt="django documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png">][django]
 [<img align="left" alt="java" width="60px" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png">][java]
 [<img align="left" alt="postgresql" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
