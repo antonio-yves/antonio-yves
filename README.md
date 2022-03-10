@@ -40,7 +40,7 @@
 ---
 
 ### Bancos de Dados:
-[<img align="left" alt="postgresql" height="60px" src="https://appmasters.io/static/postgres-logo-44a089f75c86df10611905e89359c174.png"/>][postgresql]
+[<img align="left" alt="postgresql" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"/>][postgresql]
 [<img align="left" alt="mysql" height="60px" src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png"/>][mysql]
 <br/><br/><br/>
 
