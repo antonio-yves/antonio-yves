@@ -42,6 +42,7 @@
 ### Bancos de Dados:
 [<img align="left" alt="postgresql" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"/>][postgresql]
 [<img align="left" alt="mysql" height="60px" src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png"/>][mysql]
+[<img align="left" alt="oracle-database" height="60px" src="https://pdjmaster.files.wordpress.com/2020/04/oracle-database.png"/>][oracle_db]
 <br/><br/><br/>
 
 ---
@@ -96,3 +97,4 @@
 [ubuntu]: https://ubuntu.com/download
 [linux-mint]: https://linuxmint.com/download.php
 [windows]: https://www.microsoft.com/pt-br/windows?wa=wsignin1.0
+[oracle_db]: https://www.oracle.com/br/database/
