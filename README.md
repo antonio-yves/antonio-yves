@@ -1,7 +1,7 @@
 ## Antonio Yves 👨‍💻
 
 - 🌎 João Pessoa - PB, Brazil
-- 🧑‍🎓 Ciência da Computação - Universidade Federal da Paraíba (UFPB)
+- 🧑‍🎓 Sistemas para Internet - Universidade Cruzeiro do Sul
 - 👨‍💻 Desenvolvedor de Sistemas em Engeselt Softwares
 - 😄 Pronomes: Ele/dele
 
